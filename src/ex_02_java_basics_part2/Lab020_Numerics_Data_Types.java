@@ -10,7 +10,6 @@ public class Lab020_Numerics_Data_Types {
         long l = 8978399974l;
 
         float f = 3.14f;
-        float f = 3.13F;
 
         double d = 1.2345678;
     }

@@ -6,9 +6,9 @@ public class Lab022_printF {
        // System.out.println(a);
         //System.out.printf("your variable is %d",a);
         // %d -> int, byte, long, short,
-        // %d -> string
-        // %d -> float, double,
-        // %d -> boolean
+        // %s -> string
+        // %f -> float, double,
+        // %b -> boolean
 
         int b = 20;
         System.out.printf("a value is this %d, b value is this  %d", a, b);

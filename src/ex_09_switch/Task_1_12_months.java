@@ -2,7 +2,7 @@ package ex_09_switch;
 
 import java.util.Scanner;
 
-public class Task_Switch02 {
+public class Task_1_12_months {
     public static void main(String[] args) {
         // Write a Java program that takes a month number
         // (1-12) and prints the number of days in that month using a switch statement.

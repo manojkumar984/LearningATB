@@ -2,7 +2,7 @@ package ex_09_switch;
 
 import java.util.Scanner;
 
-public class Task_Switch1 {
+public class Task_Grading {
     public static void main(String[] args) {
 
         Scanner scanner  = new Scanner(System.in);

@@ -8,7 +8,6 @@ public class Lab03_Do_While_Real {
         do {
             System.out.println(number);
             number++;
-            while (number < 0);
-        }
+        } while (number < 0);
     }
 }

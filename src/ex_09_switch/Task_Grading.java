@@ -28,7 +28,7 @@ public class Task_Grading {
                 System.out.println("Fail");
                 break;
             default:
-                System.out.println("Invalid grade please enter the valid grade");
+                System.out.println("Invalid grade, please enter the valid grade");
 
         }
 
